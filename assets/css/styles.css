@@ -1,0 +1,31 @@
+img.img-responsive{
+  margin:0 auto;
+  width:100px;
+}
+
+div.container-fluid{
+  background-image:url("../../assets/img/back.jpg");
+  background-repeat:no-repeat;
+  background-size:cover;
+  background-position:center;
+}
+
+div.col-md-2.col-md-offset-5{
+  margin-top:20px;
+}
+
+div.col-md-10.col-md-offset-1{
+}
+
+div.table-responsive{
+  background-color:#fff;
+  margin-top:20px;
+}
+
+#jumbo{
+	background-image:url("../../assets/img/4.jpg");
+  background-repeat:no-repeat;
+  background-size:cover;
+  background-position:center;
+}
+

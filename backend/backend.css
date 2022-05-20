@@ -1,0 +1,46 @@
+@charset "utf-8";
+.wrapper {
+	float: left;
+	width: 100%;
+}
+.header {
+	float: left;
+	height: 80px;
+	width: 100%;
+	background-color: rgba(0,0,85,1);
+	font-family: Tahoma, Geneva, sans-serif;
+	font-size: 24px;
+	line-height: 60px;
+	color: rgba(238,238,238,1);
+	text-align: center;
+}
+.nav {
+	float: left;
+	height: 200px;
+	width: 20%;
+	margin-top: 20px;
+}
+.view {
+	float: left;
+	width: 78%;
+	margin-top: 20px;
+	margin-left: 1%;
+	height: 500px;
+}
+.go {
+	text-decoration: none;
+	text-align: center;
+	font-family: Tahoma, Geneva, sans-serif;
+	color: rgba(238,0,0,1);
+	float: left;
+	width: 100%;
+	margin-top: 10px;
+}
+.logout {
+	float: right;
+	width: 20%;
+	margin-left: 80%;
+	font-family: Tahoma, Geneva, sans-serif;
+	color: rgba(255,0,102,1);
+	text-align: center;
+}
